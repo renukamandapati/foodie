@@ -6,7 +6,7 @@
 
 ## 🌐 Live Site
 
-🔗 [View Live on GitHub Pages](https://renukamandhapati.github.io/foodie/)
+🔗 [View Live on GitHub Pages](https://renukamandapati.github.io/foodie/)
 
 
 ## 📸 Features
